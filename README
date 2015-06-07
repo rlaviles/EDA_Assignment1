@@ -1,0 +1,8 @@
+Here I have stored the material related to the JHU+Coursera Exploratory Data Analysis, assignment 1.
+Followed the instructions and forked the data from RDPeng: "rlaviles/ExData_Plotting1 forked from rdpeng/ExData_Plotting1"
+Misinterpreted some instructions and then I created a separated repository instead of a brach on the forked repository. 
+I need to do other stuff and then I will not improve my current homewrok, I know it works but, the scripts look a bit messy. 
+In the assignment it says very clearly "Your code file should include code for reading the data so that the plot can be fully reproduced."
+However, I started creating a separate R script and then when I readed instructions again, just pasted that code into the other R codes 
+plotj.R with j=1,2,3,4.  Then all those codes look a bit messy, not really 'clean', but it works! And then I was able to reproduce 
+the expected PNG plots which are included in the repository.
